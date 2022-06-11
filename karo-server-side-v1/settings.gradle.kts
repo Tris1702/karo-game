@@ -1,0 +1,1 @@
+rootProject.name = "com.example.karo-server-side-v1"
